@@ -1,2 +1,11 @@
 # sebas7r
 taller de datos 
+El fútbol sigue siendo el deporte rey y, en 2026, las principales conversaciones giran en torno a grandes eventos, reconfiguraciones de clubes y la consolidación de nuevas fuerzas tanto en el fútbol masculino como femenino. Con la Copa Mundial de la FIFA 2026 en el horizonte, selecciones y federaciones están afinando preparativos y logística, mientras que las eliminatorias y amistosos sirven para ajustar plantillas y probar jóvenes talentos que aspiran a brillar en el torneo.
+
+En el ámbito de clubes, el mercado de fichajes y las decisiones institucionales marcan el pulso. Grandes inversiones de fondos soberanos y grupos empresariales continúan transformando plantillas, especialmente en Europa, donde la Premier League, LaLiga, la Serie A y la UEFA Champions League concentran la atención mediática. Al mismo tiempo, emergen proyectos ambiciosos en Estados Unidos, Medio Oriente y Asia, que buscan atraer estrellas y aumentar la competitividad global. Los cambios de entrenadores y la apuesta por perfiles tácticos más flexibles son frecuentes, con una mezcla de apuestas por jóvenes técnicos y entrenadores consagrados.
+
+El fútbol femenino experimenta una expansión notable: mayor profesionalización de ligas nacionales, incrementos de audiencia y patrocinios, y un calendario internacional más densificado. Tras el impulso de los últimos mundiales femeninos, clubes y federaciones invierten en infraestructuras y academias, lo que está generando una ola de talentos jóvenes que empujan la competitividad a nuevos niveles.
+
+En lo tecnológico y reglamentario, la implementación de VAR y mejoras en arbitraje, junto a debates sobre la congestión de calendarios y la protección de la salud de los jugadores, siguen siendo temas recurrentes. También se discuten iniciativas sobre sostenibilidad, derechos de imagen y modelos de gobernanza para garantizar mayor transparencia en la gestión del fútbol.
+
+Finalmente, los aficionados viven una mezcla de nostalgia y novedad: el adiós de figuras icónicas contrasta con la emergencia de nuevas promesas; las redes sociales siguen moldeando narrativas y creando estrellas globales; y el fútbol sigue adaptándose a un mercado cada vez más globalizado, comercial y tecnificado.
